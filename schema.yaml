@@ -1,0 +1,17 @@
+COLUMNS:
+  Product_id: int64
+  Sale: int64
+  weight: float64
+  resoloution: float64
+  ppi: int64
+  cpu core: int64
+  cpu freq: float64
+  internal mem: float64
+  ram: float64
+  RearCam: float64
+  Front_Cam: float64
+  battery: int64
+  thickness: float64
+
+TARGET_COLUMN:
+  Price: int64
